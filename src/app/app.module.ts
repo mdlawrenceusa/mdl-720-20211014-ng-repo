@@ -15,7 +15,7 @@ import { I2021Component } from './i-2021/i-2021.component';
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
-      { path: 'i-2021', component: I2021Component },
+      { path: 'i-2021', component:   I2021Component},
 
     ])
   ],
